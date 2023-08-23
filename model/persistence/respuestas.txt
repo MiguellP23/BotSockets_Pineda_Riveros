@@ -1,0 +1,20 @@
+monoplaza,monoplaza,carro:Un monoplaza es un vehículo de carreras diseñado específicamente para competir en la Fórmula Uno. Está optimizado para la velocidad y el rendimiento en circuitos de carreras.
+piloto,piloto: n piloto es el conductor del monoplaza en una carrera de Fórmula Uno. Son atletas altamente capacitados que compiten por la victoria en cada carrera.
+pista: Una pista es el circuito donde se llevan a cabo las carreras de Fórmula Uno. Puede ser un circuito urbano o un trazado permanente diseñado específicamente para las competencias de Fórmula Uno.
+carrera,granpremio,gp: Una carrera es el evento en el que los pilotos compiten entre sí en sus monoplazas en un circuito determinado. El objetivo es completar el número de vueltas requeridas primero para ganar.
+neumáticos,llantas:Los neumáticos son las ruedas de los monoplazas de Fórmula Uno. Vienen en diferentes compuestos y se eligen estratégicamente para adaptarse a las condiciones de la pista y la estrategia de carrera.
+poleposition,pole: La pole position es la posición de partida en la primera posición de la parrilla de salida. Se otorga al piloto más rápido en la clasificación.
+clasificación,qualy: La clasificación es una sesión de entrenamiento cronometrada en la que los pilotos compiten para determinar su posición en la parrilla de salida de la carrera.
+pitstop,pit,boxbox: Un pit stop es una parada en boxes durante la carrera para cambiar neumáticos, reabastecer combustible y realizar ajustes en el monoplaza.
+escudería,equipo,team: Una escudería es el equipo que opera y compite con los monoplazas en la Fórmula Uno. Cada equipo está formado por pilotos, ingenieros y personal de apoyo.
+campeonatomundial: El Campeonato Mundial de Fórmula Uno es una serie de carreras a lo largo de la temporada en diferentes pistas de todo el mundo. El piloto y la escudería con el mejor rendimiento a lo largo de la temporada ganan el título mundial.
+drs,dragreductionsystem: El DRS es un sistema que permite a los pilotos ajustar el alerón trasero en ciertas zonas de la pista para reducir la resistencia al aire y ganar velocidad en las rectas.
+safetycar: El coche de seguridad o Safety Car es un vehículo que entra a la pista durante una carrera en situaciones de peligro, como accidentes o condiciones climáticas extremas. Todos los pilotos deben seguir al Safety Car hasta que se retire.
+campeóndelmundo: El Campeón del Mundo de Fórmula Uno es el piloto que gana el título al acumular la mayor cantidad de puntos a lo largo de la temporada.
+aerodinámica: La aerodinámica se refiere al diseño y la configuración de la forma del monoplaza para optimizar el flujo del aire y mejorar el rendimiento en términos de velocidad y agarre.
+motor: El motor es el corazón del monoplaza y juega un papel crucial en su rendimiento. Los equipos buscan desarrollar motores potentes y eficientes.
+estrategiacarrera: La estrategia de carrera implica decisiones sobre cuándo realizar pit stops, qué neumáticos usar y cómo gestionar el combustible para obtener el mejor resultado posible.
+campeonatoconstructores: El Campeonato de Constructores se otorga a la escudería que acumula la mayor cantidad de puntos a lo largo de la temporada, sumando los puntos de ambos pilotos.
+banderacuadros: La bandera a cuadros es ondeada en la línea de meta para indicar el final de la carrera. El primer piloto en cruzarla es el ganador.
+puntos: Los puntos se otorgan a los pilotos y las escuderías según su posición en la carrera. Cuanto mejor sea la posición, más puntos se obtienen, lo que es crucial para el campeonato.
+salir,adios,chao: Gracias por usar el programa y aprender de Formula 1
